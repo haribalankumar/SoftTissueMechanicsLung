@@ -16,6 +16,12 @@ The three-step procedure is : (isotropic expansion + gravity + nonuniform expans
 RUNNING
 These codes (.com) cannot be run on its own. They should be run on a machine which has cmiss-built.
 
+The following tests should be first tested:
+PrintInputs --> prints out some important info about subject
+RunExpansion --> should be first run alone.
+RunExpansion + gravity --> 
+
+
 
 EXPECTED OUTPUT
 
