@@ -17,8 +17,8 @@ RUNNING <br />
 These codes (.com) cannot be run on its own. They should be run on a machine which has cmiss-built.
 
 The following tests should be first tested: <br />
-PrintInputs --> prints out some important info about subject
-RunExpansion --> should be first run alone.
+PrintInputs --> prints out some important info about subject <br />
+RunExpansion --> should be first run alone. <br />
 RunExpansion + gravity --> 
 
 
@@ -27,7 +27,7 @@ EXPECTED OUTPUT
 
 
 INPUTS <br />
-SEDF --> Strain Energy Density Function "W" function parameters 
+SEDF --> Strain Energy Density Function "W" function parameters <br />
 Subject Upright FRC (From PFT) to Supine FRC (From CT) ratio (default is 100)
 
 
