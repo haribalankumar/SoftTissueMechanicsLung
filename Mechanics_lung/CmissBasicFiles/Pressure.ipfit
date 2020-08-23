@@ -1,0 +1,45 @@
+ CMISS Version 2.0  ipfit File Version 2
+ Heading: penalty test for hermite element
+ 
+ Specify whether problem is (1) linear or (2) nonlinear [1]: 1
+ Specify #fit variables in the fit [1]: 1
+ Specify #field vars to be fitted for fit var 1 [1]: 1
+ Specify field var# to store var 1 of fit var 1 [1]: 1
+ Specify data var# to be fitted for var 1 of fit var 1 [1]: 1
+ Enter smoothing type [0]:
+   (0) None
+   (1) Sobolev on field
+   (2) Sobolev on deviation from initial field
+   (3) Strain energy
+    0
+ 
+ Do you want the global matrices stored as sparse matrices [Y]? n
+ 
+ Do you want to enter the coupling coefficients [N]? n
+ 
+ Enter node #s/name to fix [EXIT]: 0
+ Specify type of linear solution procedure [1]:
+   (1)  LU Decomposition
+   (2)  Single Value Decomposition
+   (3)  Least Squares
+   (4)  Cholesky Decomposition
+   (5)  Jacobi Iteration
+   (6)  Succesive Over Relaxation
+   (7)  Incomplete LU Decomposition(0)
+   (8)  Incomplete LU Decomposition(1)
+   (9)  Conjugate Gradient
+   (10) Biconjugate Gradient Stabilised
+   (11) Generalised Minimum Residual
+   (12) Black Box Multigrid (BOXMG)
+   (13) Preconditioned CG from BOXMG
+   (14) Algebraic Multigrid (AMG1R6)
+    1
+ Do you want the solution matrix stored as a sparse matrix [Y]? n
+ Specify option for linear solution [0]:
+   (0) No output
+   (1) Timing and error check
+   (2) & Solver output
+   (3) & Global solution matrices
+   (4) & Global stiffness matrices
+   (5) & Element matrices
+    0
