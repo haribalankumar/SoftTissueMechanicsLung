@@ -1,0 +1,581 @@
+ CMISS Version 2.0 ipnode File Version 2
+ Heading: fitted
+
+ The number of elements is [1]:   32
+
+ Element number [    1]:     1 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  242   242   127   130   242   242   127   131
+ The version number for occurrence  1 of node   242, njj=1 is [ 1]: 4
+ The version number for occurrence  1 of node   242, njj=2 is [ 1]: 4
+ The version number for occurrence  1 of node   242, njj=3 is [ 1]: 4
+ The version number for occurrence  1 of node   242, njj=4 is [ 1]: 4
+ The version number for occurrence  2 of node   242, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=4 is [ 1]: 1
+ The version number for occurrence  3 of node   242, njj=1 is [ 1]: 4
+ The version number for occurrence  3 of node   242, njj=2 is [ 1]: 4
+ The version number for occurrence  3 of node   242, njj=3 is [ 1]: 4
+ The version number for occurrence  3 of node   242, njj=4 is [ 1]: 4
+ The version number for occurrence  4 of node   242, njj=1 is [ 1]: 3
+ The version number for occurrence  4 of node   242, njj=2 is [ 1]: 3
+ The version number for occurrence  4 of node   242, njj=3 is [ 1]: 3
+ The version number for occurrence  4 of node   242, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node   127, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node   127, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node   127, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node   127, njj=4 is [ 1]: 2
+
+ Element number [    3]:     3 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  242   67   130   136   242   67   131   137
+ The version number for occurrence  1 of node   242, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   242, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   242, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   242, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=1 is [ 1]: 3
+ The version number for occurrence  2 of node   242, njj=2 is [ 1]: 3
+ The version number for occurrence  2 of node   242, njj=3 is [ 1]: 3
+ The version number for occurrence  2 of node   242, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=1 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=2 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=3 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=4 is [ 1]: 3
+
+ Element number [    5]:     5 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  242   242   127   143   242   242   127   130
+ The version number for occurrence  1 of node   242, njj=1 is [ 1]: 4
+ The version number for occurrence  1 of node   242, njj=2 is [ 1]: 4
+ The version number for occurrence  1 of node   242, njj=3 is [ 1]: 4
+ The version number for occurrence  1 of node   242, njj=4 is [ 1]: 4
+ The version number for occurrence  2 of node   242, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node   242, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node   242, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node   242, njj=4 is [ 1]: 2
+ The version number for occurrence  1 of node   127, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node   127, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node   127, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node   127, njj=4 is [ 1]: 3
+ The version number for occurrence  3 of node   242, njj=1 is [ 1]: 4
+ The version number for occurrence  3 of node   242, njj=2 is [ 1]: 4
+ The version number for occurrence  3 of node   242, njj=3 is [ 1]: 4
+ The version number for occurrence  3 of node   242, njj=4 is [ 1]: 4
+ The version number for occurrence  4 of node   242, njj=1 is [ 1]: 1
+ The version number for occurrence  4 of node   242, njj=2 is [ 1]: 1
+ The version number for occurrence  4 of node   242, njj=3 is [ 1]: 1
+ The version number for occurrence  4 of node   242, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=4 is [ 1]: 1
+
+ Element number [    7]:     7 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  242   67   143   146   242   67   130   136
+ The version number for occurrence  1 of node   242, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node   242, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node   242, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node   242, njj=4 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node   242, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node   242, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=4 is [ 1]: 1
+
+ Element number [   17]:    17 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  1   45   17   53   1   2   17   18
+ The version number for occurrence  1 of node     1, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=4 is [ 1]: 2
+
+ Element number [   18]:    18 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  45   71   53   95   2   72   18   96
+
+ Element number [   21]:    21 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  1   8   17   24   1   45   17   53
+ The version number for occurrence  1 of node     1, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=4 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node     1, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=4 is [ 1]: 1
+
+ Element number [   22]:    22 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  8   77   24   101   45   71   53   95
+
+ Element number [   34]:    34 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  53   95   61   119   18   96   34   120
+
+ Element number [   38]:    38 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  24   101   40   125   53   95   61   119
+
+ Element number [   59]:    59 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  71   48   95   56   72   4   96   20
+
+ Element number [   63]:    63 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  77   6   101   22   71   48   95   56
+
+ Element number [   75]:    75 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  95   56   119   64   96   20   120   36
+
+ Element number [   79]:    79 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  101   22   125   38   95   56   119   64
+
+ Element number [   82]:    82 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  130   136   45   71   131   137   2   72
+
+ Element number [   86]:    86 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  143   146   8   77   130   136   45   71
+
+ Element number [  123]:   123 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  136   140   71   48   137   141   72   4
+
+ Element number [  127]:   127 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  146   147   77   6   136   140   71   48
+
+ Element number [   76]:    76 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  56   21   64   37   20   21   36   37
+ The version number for occurrence  1 of node    21, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node    37, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node    37, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node    37, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node    37, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node    21, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    37, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    37, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    37, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    37, njj=4 is [ 1]: 1
+
+ Element number [   80]:    80 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  22   21   38   37   56   21   64   37
+ The version number for occurrence  1 of node    21, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=4 is [ 1]: 3
+ The version number for occurrence  1 of node    37, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node    37, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node    37, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node    37, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node    37, njj=1 is [ 1]: 3
+ The version number for occurrence  2 of node    37, njj=2 is [ 1]: 3
+ The version number for occurrence  2 of node    37, njj=3 is [ 1]: 3
+ The version number for occurrence  2 of node    37, njj=4 is [ 1]: 3
+
+ Element number [   33]:    33 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  17   53   33   61   17   18   33   34
+ The version number for occurrence  1 of node    17, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node    17, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node    33, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node    33, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node    33, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node    33, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node    17, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    33, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    33, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    33, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    33, njj=4 is [ 1]: 1
+
+ Element number [   37]:    37 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  17   24   33   40   17   53   33   61
+ The version number for occurrence  1 of node    17, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node    17, njj=4 is [ 1]: 3
+ The version number for occurrence  1 of node    33, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node    33, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node    33, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node    33, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    17, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    17, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node    33, njj=1 is [ 1]: 3
+ The version number for occurrence  2 of node    33, njj=2 is [ 1]: 3
+ The version number for occurrence  2 of node    33, njj=3 is [ 1]: 3
+ The version number for occurrence  2 of node    33, njj=4 is [ 1]: 3
+
+ Element number [   60]:    60 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  48   5   56   21   4   5   20   21
+ The version number for occurrence  1 of node     5, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node    21, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node    21, njj=4 is [ 1]: 2
+
+ Element number [   64]:    64 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  6   5   22   21   48   5   56   21
+ The version number for occurrence  1 of node     5, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=4 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node    21, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node     5, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    21, njj=4 is [ 1]: 1
+
+ Element number [   81]:    81 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  127   130   1   45   127   131   1   2
+ The version number for occurrence  1 of node   127, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   127, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node     1, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node   127, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node   127, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node   127, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node     1, njj=4 is [ 1]: 2
+
+ Element number [   85]:    85 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  127   143   1   8   127   130   1   45
+ The version number for occurrence  1 of node   127, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node   127, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node   127, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node   127, njj=4 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node     1, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node   127, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node   127, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node     1, njj=4 is [ 1]: 1
+
+ Element number [  124]:   124 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  140   237   48   5   141   237   4   5
+ The version number for occurrence  1 of node   237, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   237, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   237, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   237, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node     5, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node   237, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node     5, njj=4 is [ 1]: 2
+
+ Element number [  128]:   128 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  147   237   6   5   140   237   48   5
+ The version number for occurrence  1 of node   237, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node   237, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node   237, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node   237, njj=4 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node     5, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node   237, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node   237, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node   237, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node   237, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node     5, njj=4 is [ 1]: 1
+
+ Element number [   43]:    43 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  67   243   136   140   67   243   137   141
+ The version number for occurrence  1 of node    67, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node    67, njj=4 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=1 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=2 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=3 is [ 1]: 3
+ The version number for occurrence  2 of node    67, njj=4 is [ 1]: 3
+ The version number for occurrence  2 of node   243, njj=1 is [ 1]: 3
+ The version number for occurrence  2 of node   243, njj=2 is [ 1]: 3
+ The version number for occurrence  2 of node   243, njj=3 is [ 1]: 3
+ The version number for occurrence  2 of node   243, njj=4 is [ 1]: 3
+
+ Element number [   45]:    45 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  243   243   140   237   243   243   141   237
+ The version number for occurrence  1 of node   243, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   243, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node   243, njj=1 is [ 1]: 4
+ The version number for occurrence  2 of node   243, njj=2 is [ 1]: 4
+ The version number for occurrence  2 of node   243, njj=3 is [ 1]: 4
+ The version number for occurrence  2 of node   243, njj=4 is [ 1]: 4
+ The version number for occurrence  1 of node   237, njj=1 is [ 1]: 1
+ The version number for occurrence  1 of node   237, njj=2 is [ 1]: 1
+ The version number for occurrence  1 of node   237, njj=3 is [ 1]: 1
+ The version number for occurrence  1 of node   237, njj=4 is [ 1]: 1
+ The version number for occurrence  3 of node   243, njj=1 is [ 1]: 3
+ The version number for occurrence  3 of node   243, njj=2 is [ 1]: 3
+ The version number for occurrence  3 of node   243, njj=3 is [ 1]: 3
+ The version number for occurrence  3 of node   243, njj=4 is [ 1]: 3
+ The version number for occurrence  4 of node   243, njj=1 is [ 1]: 4
+ The version number for occurrence  4 of node   243, njj=2 is [ 1]: 4
+ The version number for occurrence  4 of node   243, njj=3 is [ 1]: 4
+ The version number for occurrence  4 of node   243, njj=4 is [ 1]: 4
+ The version number for occurrence  2 of node   237, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=4 is [ 1]: 2
+
+ Element number [   46]:    46 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  67   243   146   147   67   243   136   140
+ The version number for occurrence  1 of node    67, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node    67, njj=4 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node    67, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node    67, njj=4 is [ 1]: 1
+ The version number for occurrence  2 of node   243, njj=1 is [ 1]: 1
+ The version number for occurrence  2 of node   243, njj=2 is [ 1]: 1
+ The version number for occurrence  2 of node   243, njj=3 is [ 1]: 1
+ The version number for occurrence  2 of node   243, njj=4 is [ 1]: 1
+
+ Element number [   48]:    48 
+ The basis function type for field variable 1 is [1]: 1 
+ The basis function type for field variable 2 is [1]: 1 
+ The basis function type for field variable 3 is [1]: 1 
+ The basis function type for field variable 4 is [1]: 1 
+ Enter the 8 numbers for basis 1 [prev]:  243   243   147   237   243   243   140   237
+ The version number for occurrence  1 of node   243, njj=1 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=2 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=3 is [ 1]: 2
+ The version number for occurrence  1 of node   243, njj=4 is [ 1]: 2
+ The version number for occurrence  2 of node   243, njj=1 is [ 1]: 4
+ The version number for occurrence  2 of node   243, njj=2 is [ 1]: 4
+ The version number for occurrence  2 of node   243, njj=3 is [ 1]: 4
+ The version number for occurrence  2 of node   243, njj=4 is [ 1]: 4
+ The version number for occurrence  1 of node   237, njj=1 is [ 1]: 3
+ The version number for occurrence  1 of node   237, njj=2 is [ 1]: 3
+ The version number for occurrence  1 of node   237, njj=3 is [ 1]: 3
+ The version number for occurrence  1 of node   237, njj=4 is [ 1]: 3
+ The version number for occurrence  3 of node   243, njj=1 is [ 1]: 1
+ The version number for occurrence  3 of node   243, njj=2 is [ 1]: 1
+ The version number for occurrence  3 of node   243, njj=3 is [ 1]: 1
+ The version number for occurrence  3 of node   243, njj=4 is [ 1]: 1
+ The version number for occurrence  4 of node   243, njj=1 is [ 1]: 4
+ The version number for occurrence  4 of node   243, njj=2 is [ 1]: 4
+ The version number for occurrence  4 of node   243, njj=3 is [ 1]: 4
+ The version number for occurrence  4 of node   243, njj=4 is [ 1]: 4
+ The version number for occurrence  2 of node   237, njj=1 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=2 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=3 is [ 1]: 2
+ The version number for occurrence  2 of node   237, njj=4 is [ 1]: 2
+

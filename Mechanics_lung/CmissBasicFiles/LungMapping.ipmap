@@ -301,12 +301,8 @@
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -316,16 +312,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 7
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
@@ -333,21 +325,15 @@
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 3 1 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 2 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 3 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 2 1 7
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -376,12 +362,8 @@
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -391,38 +373,26 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 3 2 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 2 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 3 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 2 2 7
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -451,12 +421,8 @@
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -466,38 +432,26 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 3 3 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 2 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 3 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 58 2 3 7
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4352,9 +4306,7 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4364,9 +4316,7 @@
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 7
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 8
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 1
@@ -4375,9 +4325,7 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4387,9 +4335,7 @@
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 7
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 8
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 1 1
@@ -4460,9 +4406,7 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4472,9 +4416,7 @@
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 7
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 8
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 1
@@ -4483,9 +4425,7 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4495,9 +4435,7 @@
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 7
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 8
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 2 1
@@ -4568,9 +4506,7 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4580,9 +4516,7 @@
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 7
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 8
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 1
@@ -4591,9 +4525,7 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
@@ -4603,9 +4535,7 @@
  Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 7
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 8
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 92 1 3 1
@@ -4678,18 +4608,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 3
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -4699,41 +4623,27 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 1 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 3
- Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 4
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 2 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 5:
  Is the nodal position mapped out [N]: Y
@@ -4743,64 +4653,44 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: N
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 6:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 1 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 5 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 4
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 5 1 4
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 7:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 1 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 2
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For the Xj(2) coordinate:
  For version number 1:
@@ -4822,18 +4712,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 3
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -4843,18 +4727,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
@@ -4864,20 +4742,14 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 2 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 3
- Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 4
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 2 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 5:
  Is the nodal position mapped out [N]: Y
@@ -4887,18 +4759,12 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: N
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 6:
  Is the nodal position mapped out [N]: Y
@@ -4910,41 +4776,29 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 5 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 4
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 5 2 4
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 7:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 2 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 2
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For the Xj(3) coordinate:
  For version number 1:
@@ -4966,18 +4820,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 3
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -4987,18 +4835,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
@@ -5008,20 +4850,14 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 3 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 3
- Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 4
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 2 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 5:
  Is the nodal position mapped out [N]: Y
@@ -5031,64 +4867,44 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: N
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 6:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 3 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 5 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 4
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 5 3 4
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 7:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 3 3 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 2
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 95 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
 
  Node number [    1]:     96
@@ -5112,18 +4928,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 3
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -5133,41 +4943,27 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 1 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 3
- Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 4
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 2 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 5:
  Is the nodal position mapped out [N]: Y
@@ -5177,64 +4973,46 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: N
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 6:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 1 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 5 1 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 4
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 5 1 4
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 7:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 1 2
+ Is the derivative wrt direction 1 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 6 1 2
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 2 is mapped out [N]: Y
+ Is the derivative wrt direction 2 is mapped out [N]: y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 2
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 1 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For the Xj(2) coordinate:
  For version number 1:
@@ -5256,18 +5034,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 3
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -5277,41 +5049,27 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 2 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 3
- Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 4
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 2 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 5:
  Is the nodal position mapped out [N]: Y
@@ -5321,64 +5079,46 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: N
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 6:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 2 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 5 2 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 4
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 5 2 4
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 7:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 2 2
+ Is the derivative wrt direction 1 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 6 2 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 2
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 2 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For the Xj(3) coordinate:
  For version number 1:
@@ -5400,18 +5140,12 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 3
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 3:
  Is the nodal position mapped out [N]: Y
@@ -5421,41 +5155,27 @@
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 4:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 3 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 3
- Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 4
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 2 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 5:
  Is the nodal position mapped out [N]: Y
@@ -5465,63 +5185,45 @@
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: N
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 6:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 3 2
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt direction 1 is mapped out [N]: N
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 5 3 3
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 4
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 5 3 4
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
  For version number 7:
  Is the nodal position mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 1
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt direction 1 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 3 3 2
+ Is the derivative wrt direction 1 is mapped out [N]: y
+ Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 6 3 2
  Enter the mapping coefficient [1]: 0.10000E+01
  Is the derivative wrt direction 2 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 2
  Enter the mapping coefficient [1]: -0.10000E+01
- Is the derivative wrt directions 1 & 2 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 4
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 2 is mapped out [N]: N
  Is the derivative wrt direction 3 is mapped out [N]: Y
  Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 5
  Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 1 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 6
- Enter the mapping coefficient [1]: 0.10000E+01
- Is the derivative wrt directions 2 & 3 is mapped out [N]: Y
- Enter node, version, direction, derivative numbers to map to [1,1,1,1]: 96 1 3 7
- Enter the mapping coefficient [1]: 0.10000E+01
+ Is the derivative wrt directions 1 & 3 is mapped out [N]: N
+ Is the derivative wrt directions 2 & 3 is mapped out [N]: N
  Is the derivative wrt directions 1, 2 & 3 is mapped out [N]: N
 

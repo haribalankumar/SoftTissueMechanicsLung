@@ -44,18 +44,41 @@ CORE::close OPFILE;
 
 fem def init;r;Intermediate/step_FIX;
 
-####################################################3
 system "rm $opfile";
 system "rm $ipfile";
 system "rm $opfile2";
 
+
+#THIS SOLVE GIVES THE REACTIONS AT THE SURFACE NODES
+#----------------------------------------------------
+
 fem def solve;r;CmissBasicFiles/LU;
-fem def mapping;r;CmissBasicFiles/LungMapping;
+
+# MAPPING
+#######################
+if($meshtype eq 'fissuremesh') {
+if ($surfacetype eq 'smooth'){
+fem def mapping;r;CmissBasicFiles/LungMappingSmoothEdges;
+} elsif ($surfacetype eq 'sharp'){
+fem def mapping;r;CmissBasicFiles/LungMappingSharpEdges;
+} else {
+fem quit;
+}
+}
+
+if($meshtype eq 'Nofissure_mesh') {
+if ($refinement eq 'coarse'){
+fem def mapping;r;CmissBasicFiles/LungMapping_coarse;
+}
+}
+
 
 fem evaluate pressure gauss;
+print "--------------------------------------------------------\n";
+print " Solve incr TO compute Reaction forces $sum_increment \n";
+print "--------------------------------------------------------\n";
 fem solve increment $sum_increment iterate $iterate error $error; #no extra G
 
-#THIS GIVES THE REACTIONS AT THE SURFACE NODES
 
 fem def init;w;Intermediate/back;
 ####################################################3

@@ -1,0 +1,2968 @@
+ CMISS Version 2.1  ipinit File Version 3
+ Heading: penalty test for hermite element
+ 
+ Specify option for Xi(3) faces [1]:
+   (1) No pressure boundary conditions
+   (2) Boundary pressure increments entered
+    1
+ Specify option [1]:
+   (1) Initial displacements all zero
+   (2) Read in initial conditions
+   (3) Restart from previous solution
+    2
+ 
+ Dependent variable boundary conditions:
+ 
+ Dependent variable/equation number 1 :
+ Enter node #s/name [EXIT]: 76,85
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ Enter node #s/name [EXIT]: EdgeNode95,EdgeNode96
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  6:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  7:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode92
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode75
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode84
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 61
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode70_80_89
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: Sides_Without_Corner
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: baseMiddle
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+0y
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: BaseEdge_Sides
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: LOblique_fissure
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 57
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 0
+
+ Dependent variable/equation number 2 :
+ Enter node #s/name [EXIT]: 76,85
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ Enter node #s/name [EXIT]: 61
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode75
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode95,EdgeNode96
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  6:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  7:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode84
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode92
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode70_80_89
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 57
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 0
+ 
+ Dependent variable/equation number 3 :
+ Enter node #s/name [EXIT]: 76,85
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ Enter node #s/name [EXIT]: EdgeNode95,EdgeNode96
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  6:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  7:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode92
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? N
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode75
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: EdgeNode84
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 61
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: Sides_Without_Corner
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: baseMiddle
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+0y
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: BaseEdge_Sides
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: LOblique_fissure
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 57
+ For version number  1:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the dependent variable [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe derivative number 8 [N]? N
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 0
+ 
+ Force boundary conditions:
+ 
+ Dependent variable/equation number 1 :
+ Enter node #s/name [EXIT]: outer_nodes
+ For version number  1:
+ Do you want to prescribe the force component [Y]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  6:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  7:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 0
+ 
+ Dependent variable/equation number 2 :
+ Enter node #s/name [EXIT]: outer_nodes
+ For version number  1:
+ Do you want to prescribe the force component [Y]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  6:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  7:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 0
+ 
+ Dependent variable/equation number 3 :
+ Enter node #s/name [EXIT]: outer_nodes
+ For version number  1:
+ Do you want to prescribe the force component [Y]? Y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  2:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  3:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  4:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  5:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  6:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ For version number  7:
+ Do you want to prescribe the force component [Y]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 2 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 3 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 4 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 5 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 6 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 7 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Do you want to prescribe moment number 8 [N]? y
+ The increment is [0.0]: 0.00000E+00
+ Enter node #s/name [EXIT]: 0
+ 

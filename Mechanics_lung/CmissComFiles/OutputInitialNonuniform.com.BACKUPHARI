@@ -1,0 +1,136 @@
+
+set echo on;
+
+fem update field 1 substitute constant $posP;
+fem def init;w;Intermediate/stepnonuni;
+####################################################3
+$ipfile = 'Intermediate/stepnonuni.ipinit';
+$opfile = 'Intermediate/stepnonuni_FIX.ipinit';
+$opfile2 = 'Intermediate/stepnonuni_NOFIX.ipinit';
+CORE::open(IPFILE, "<$ipfile") or die "\Can't open input file\n";
+CORE::open(OPFILE, ">$opfile2") or die "\Can't open output file\n";
+$line = <IPFILE>;
+$print = 0;
+while ($line){
+    if ($line =~ / Dependent variable initial conditions:/){$print = 1;}
+    if ($print == 1){print OPFILE "$line";}
+    $line = <IPFILE>;
+} #while
+CORE::close IPFILE;
+CORE::close OPFILE;
+
+#### HARI COMMENTED
+###ystem "cat Intermediate/HeaderNew.ipinit $opfile > Intermediate/temp.file";
+###ystem "mv Intermediate/temp.file $opfile";
+
+if ($surfacetype eq 'smooth'){
+$headerfile1 = "Intermediate/HeaderUniform_Smooth.ipinit";
+} else {
+$headerfile1 = "Intermediate/HeaderUniform_Sharp.ipinit";
+}
+
+CORE::open(IPFILE, "<$headerfile1") or die "\033[31mError11: Can't open input file $headerfile1 \033[0m \n";
+CORE::open(OPFILE, ">$opfile") or die "\033[31mError11: Can't open $opfile\033[0m \n";
+       $line = <IPFILE>;
+       while ($line){
+               print OPFILE "$line";
+               $line = <IPFILE>;
+       }
+CORE::close IPFILE;
+CORE::open(IPFILE, "<$opfile2") or die "\033[31mError11: Can't open input file $opfile2 \033[0m \n";
+       $line = <IPFILE>;
+       while ($line){
+               print OPFILE "$line";
+               $line = <IPFILE>;
+       }
+CORE::close IPFILE;
+CORE::close OPFILE;
+
+####################################################3
+
+fem def init;r;Intermediate/stepnonuni_FIX;
+
+system "rm $opfile";
+system "rm $ipfile";
+
+# HARI ADDED
+####em def mate;r;CmissBasicFiles/SEDF;
+####em update material density $density;
+
+
+##em def solve;r;CmissBasicFiles/LU;
+fem def solve;r;CmissBasicFiles/GMRES;
+ ###em def mapping;r;CmissBasicFiles/MahyarMesh; 
+ if ($surfacetype eq 'smooth'){
+   fem def mapping;r;CmissBasicFiles/LungMappingSmoothEdges;
+  } else {
+   fem def mapping;r;CmissBasicFiles/LungMappingSharpEdges;
+  }
+
+
+# HARI ADDED
+fem evaluate pressure gauss;
+
+print "--------------------------------------------------------\n";
+print "NONUNI Solve TO compute Surface Reaction $j \n";
+print "--------------------------------------------------------\n";
+fem solve increment 1 iterate $iterate error $error; #no extra G
+
+#  THIS GIVES THE REACTIONS AT THE SURFACE NODES
+
+
+fem def init;w;Intermediate/back$i;
+####################################################3
+$ipfile = 'Intermediate/back'.$i.'.ipinit';
+$opfile = 'Intermediate/back'.$i.'_FIX.ipinit';
+$opfile2 = 'Intermediate/back'.$i.'_NOFIX.ipinit';
+CORE::open(IPFILE, "<$ipfile") or die "\Can't open input file\n";
+CORE::open(OPFILE, ">$opfile2") or die "\Can't open output file\n";
+$line = <IPFILE>;
+$print = 0;
+while ($line){
+    if ($line =~ / Dependent variable initial conditions:/){$print = 1;}
+    if ($print == 1){ print OPFILE "$line"; }
+    $line = <IPFILE>;
+} #while
+close IPFILE;
+close OPFILE;
+
+###system "cat Intermediate/HeaderSupineLeft_MahyarMeshGeav.ipinit $opfile > Intermediate/temp.file";
+###system "cat Intermediate/Header${posture}${lung}.ipinit $opfile > Intermediate/temp.file";
+
+### HARI COMMENTED
+###system "cat Intermediate/HeaderNew.ipinit $opfile > Intermediate/temp.file";
+###system "mv Intermediate/temp.file $opfile";
+
+if ($surfacetype eq 'smooth'){
+$headerfile1 = "Intermediate/HeaderUniform_Smooth.ipinit";
+} else {
+$headerfile1 = "Intermediate/HeaderUniform_Sharp.ipinit";
+}
+
+CORE::open(IPFILE, "<$headerfile1") or die "\033[31mError11: Can't open input file $headerfile1 \033[0m \n";
+CORE::open(OPFILE, ">$opfile") or die "\033[31mError11: Can't open $opfile\033[0m \n";
+       $line = <IPFILE>;
+       while ($line){
+            print OPFILE "$line";
+            $line = <IPFILE>;
+       }
+CORE::close IPFILE;
+CORE::open(IPFILE, "<$opfile2") or die "\033[31mError11: Can't open input file $opfile2 \033[0m \n";
+       $line = <IPFILE>;
+       while ($line){
+            print OPFILE "$line";
+            $line = <IPFILE>;
+       }
+CORE::close IPFILE;
+CORE::close OPFILE;
+
+
+####################################################3
+fem def init;r;'Intermediate/back'.$i.'_FIX';
+system "rm $opfile";
+system "rm $ipfile";
+
+####################################################3
+

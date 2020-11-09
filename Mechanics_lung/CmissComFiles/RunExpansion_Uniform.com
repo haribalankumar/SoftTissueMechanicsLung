@@ -7,18 +7,39 @@ fem read com;CmissComFiles/BasicSetup;#REad in basic set up parameters
 #----------------------------------------
 read com;CmissComFiles/GroupLung;
 
+#m list elem total;
 
-#Scale lung shape to reference volume
+#em export node;$Model.'/NoFisCoarsemesh/'.${lung}.'_Refittedmv';
+#em export elem;$Model.'/NoFisCoarsemesh/'.${lung}.'_Refittedmv';
+#em quit;
+
+
+##em update node deriv 1 versions individual;
+##em update node deriv 2 versions individual;
+##em update node deriv 3 versions individual;
+##em update node scale_factor;
+
+##em def node;w;$Model/${lung}frc_fitted
+##em quit;
+
+##Scale lung shape to reference volume
 print "scale to ref = $scale_0 \n";
 fem read com;CmissComFiles/ScaleLungToReference; #scale from TLC to Vref
 
 
-# SET UP DEFAULT FIELDS     # 
-fem def field;r;InitialConditions/Left_Initialize16Field;
-fem def elem;r;InitialConditions/Left_InitialElem16Field field;
 
+# SET UP DEFAULT FIELDS     # 
+
+if($meshtype eq 'fissuremesh') {
+fem def field;r;InitialConditions/Left_Initialize4Field;
+fem def elem;r;InitialConditions/Left_InitialElem4Field field;
+} elsif ($meshtype eq 'Nofissure_mesh') {
+fem def field;r;InitialConditions/Left_Initialize4Field_Coarsemesh;
+fem def elem;r;InitialConditions/Left_InitialElem4Field_Coarsemesh field;
+}
 
 # SET UP DEFAULT FIBRES
+#----------------------
 fem def fibr;d;
 fem def elem;d fibre;
 
@@ -28,41 +49,70 @@ fem update node deriv 3 versions individual;
 fem update node scale_factor;
 
 
+
 # EQUATION TYPE AND MATERIAL LAW
+#--------------------------------
 fem def equa;r;CmissBasicFiles/Compressible;
-fem def mate;r;CmissBasicFiles/SEDF;
+
+if ($stiffness eq 'c2000'){
+fem def mate;r;CmissBasicFiles/SEDFConstantc2000;}
+if ($stiffness eq 'c2500'){
+fem def mate;r;CmissBasicFiles/SEDFConstantc2500;}
+if ($stiffness eq 'c3000'){
+fem def mate;r;CmissBasicFiles/SEDFConstantc3000;}
+
 fem update material density $density;
 
 
 # INITIAL CONDITIONS: SET FIXED DISPLACEMENTS AND FORCES
 fem update material density $density;
+
 
 # INITIAL CONDITIONS: SET FIXED DISPLACEMENTS AND FORCES
 fem def init;r;InitialConditions/FixSurface;
 
+
 # FIT ALVEOLAR PRESSURES
 fem def fit;r;CmissBasicFiles/Pressure field;
 
-#output undeformed mesh
+
+# check 1 - volume after scaling to ref 
+#--------------------------------------
+fem list elem total deformed;
+
+
+#Output undeformed mesh
 fem export node;$init_path/D0 as cube field;
-fem export node;$init_path/U0 as cube;
 fem export elem;$init_path/D0 as cube field;
-fem export elem;$init_path/U0 as cube;
 
 
 # PROBLEM SOLUTION
-fem def mapping;r;CmissBasicFiles/LungMapping; 
+if($meshtype eq 'fissuremesh') {
+if ($surfacetype eq 'smooth'){
+$headerfile1 = "Intermediate/HeaderUniform_Smooth.ipinit";
+}
+if ($surfacetype eq 'sharp'){
+$headerfile1 = "Intermediate/HeaderUniform_Sharp.ipinit";
+}
+}
+
+if($meshtype eq 'Nofissure_mesh') {
+if ($refinement eq 'coarse'){
+$headerfile1 = "Intermediate/HeaderUniform_coarse.ipinit";
+}
+}
+
 fem def solve;r;CmissBasicFiles/GMRES;
+
 
 #SOLVE TO GET EXPANDING FORCES
 fem evaluate pressure gauss;       #updates ratio deformed:undeformed
 fem solve increment 0 iterate $iterate error $error;
 
+
 #Export expanded solution
 fem export node;$init_path/D1 as cube field;
-fem export node;$init_path/U1 as cube;
 fem export elem;$init_path/D1 as cube field;
-fem export elem;$init_path/U1 as cube;
 fem evaluate pressure gauss;
 
 $sum_increment = 0;
@@ -70,22 +120,36 @@ $i=0;
 $previous=$ref_pct;
 print "scale_steps @scale_steps\n";
 foreach $step (@scale_steps){
-    $cavity_scale=($step/$previous)**(1/3);
+    $cavity_scale=(($step)/$previous)**(1/3);
     print "scale cavity by $cavity_scale to $step % of expansion\n";
 
-    #..CHANGE THE SIZE OF THE LUNG TO MATCH THE CAVITY (update solution)
-    read com;CmissComFiles/ChangeLungMatchCavity;
+# CHANGE THE SIZE OF THE LUNG TO MATCH THE CAVITY (update solution)
+   read com;CmissComFiles/ChangeLungMatchCavity;
 
-#####..CALCULATE THE FORCES REQUIRED TO MAINTAIN THIS GEOMETRY
-    fem evaluate pressure gauss; #updates ratio deformed:undeformed
-    read com;CmissComFiles/OutputInitial;
+fem evaluate pressure gauss;
+
+
+# check 2 - volume after uniform scaling
+#--------------------------------------
+fem list elem total deformed;
+
+
+#####CALCULATE THE FORCES REQUIRED TO MAINTAIN THIS GEOMETRY
+   fem evaluate pressure gauss; #updates ratio deformed:undeformed
+   read com;CmissComFiles/OutputInitial;
+
+
+# check 3 - volume after outputInitial
+#--------------------------------------
+fem list elem total deformed;
+
 
 ##..EXPORT THE RESULTS
-    $i++;
-    fem export node;${init_path}/D$i as cube field;
-    fem export node;${init_path}/U$i as cube;
+#   $i++;
+#   fem export node;${init_path}/D$i as cube field;
+#   fem export node;${init_path}/U$i as cube;
 
-    #..MODIFY THE INITIAL FORCES TO MAINTAIN THE GEOMETRY
+#..MODIFY THE INITIAL FORCES TO MAINTAIN THE GEOMETRY
     $mod = 1;
     read com;CmissComFiles/ModifyInitial;
     fem def solve;r;CmissBasicFiles/GMRES;
@@ -100,20 +164,47 @@ foreach $step (@scale_steps){
 ##..EXPORT THE RESULTS
     $i++;
     fem export node;${init_path}/D$i as cube field;
-    fem export node;${init_path}/U$i as cube;
+    fem export elem;${init_path}/D$i as cube field;
 
     fem update field $P substitute constant 0;
 
+    if($meshtype eq 'fissuremesh') {
     fem list stress elem 20 at 2;
+    }
+
+    if($meshtype eq 'Nofissure_mesh') {
+    fem list stress elem 75 at 2;
+    }
 
     $Uniform='Uniform';
     fem def init;w;${init_path}.'/'.$Uniform.${lung}.'_'.$step;
     $previous = $step;
 
 }
+#fem export gauss;femlunggauss as lunggauss
+#fem list gauss;femxigauss yg as gauss
+#fem quit;
 
-fem export gauss;lunggausspts as lunggauss
-fem quit;
+
+    print "Finished calculation ------------------------------------------------\n";
+    print "Finished calculation ------------------------------------------------\n";
+    print "Finished calculation ------------------------------------------------\n";
+    print "Finished calculation ------------------------------------------------\n";
+    print "Finished calculation ------------------------------------------------\n";
+    print "Finished calculation ------------------------------------------------\n";
+ 
+#check 4 - after geom update
+#-----------------------------
+#em update geometry from solution
+
+#em update node deriv 1 versions individual;
+#em update node deriv 2 versions individual;
+#em update node deriv 3 versions individual;
+#em update node scale_factor;
+#
+#em list elem total;
+
+#em quit;
 
 $spacing = 5;
 fem def data;c fill_volume spacing $spacing;
@@ -121,6 +212,7 @@ fem def data;c from_xi deformed;
 fem update data field num_field 2;
 fem evaluate compressible data recoil field 1;
 fem evaluate compressible data ratio field 2;
+
 $file = 'UniExpan'.${posture}.${lobe};
 fem export data;${grav_path}.'/'.$file field_num 1,2 as result;
 fem de data;w;${grav_path}.'/'.$file field num_field 2;
@@ -144,12 +236,5 @@ system "perl PerlScripts/solution_bin.pl ${grav_path}/$file z $size $density $rh
 system "perl PerlScripts/solution_bin.pl ${grav_path}/$file y $size $density $rhot";
 system "perl PerlScripts/solution_bin.pl ${grav_path}/$file x $size $density $rhot";
 
-#### SurfaceNode on fissure (Zero Gravity)#######
-fem define xi;r;CmissBasicFiles/FissureXi
-fem define data;c from_xi
-
-$file=FissureDataPoints
-fem define data;w;${grav_path}.'/'.$file
-fem list data statistics
 fem quit;
 

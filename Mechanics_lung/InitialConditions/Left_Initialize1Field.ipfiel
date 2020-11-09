@@ -1,0 +1,1163 @@
+ CMISS Version 2.1 ipnode File Version 3
+ Heading: fitted
+
+ The number of field variables is [5]:  1
+ The number of nodes is [    70]:     40
+ Do you want prompting for different versions of field variable 1 [N]? Y
+ The number of derivatives for field variable 1 is [0]: 7
+  
+ Node number [    57]:     57
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    58]:     58
+ The number of versions for field variable 1 is [1]:  4
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    59]:     59
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    60]:     60
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    61]:     61
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    62]:     62
+ The number of versions for field variable 1 is [1]:  4
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    63]:     63
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    64]:     64
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    65]:     65
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    66]:     66
+ The number of versions for field variable 1 is [1]:  4
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    67]:     67
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    68]:     68
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    69]:     69
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    70]:     70
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    71]:     71
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    72]:     72
+ The number of versions for field variable 1 is [1]:  4
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    73]:     73
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    74]:     74
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    75]:     75
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    76]:     76
+ The number of versions for field variable 1 is [1]:  4
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    77]:     77
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    78]:     78
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    79]:     79
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    80]:     80
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    81]:     81
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    82]:     82
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    83]:     83
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    84]:     84
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    85]:     85
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    86]:     86
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    87]:     87
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    88]:     88
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    89]:     89
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    90]:     90
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    91]:     91
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    92]:     92
+ The number of versions for field variable 1 is [1]:  5
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    93]:     93
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    94]:     94
+ The number of versions for field variable 1 is [1]:  1
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    95]:     95
+ The number of versions for field variable 1 is [1]:  7
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 6: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 7: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+
+ Node number [    96]:     96
+ The number of versions for field variable 1 is [1]:  7
+ For version number 1: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 2: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 3: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 4: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 5: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 6: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ For version number 7: 
+ The field variable 1 value is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 1 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt direction 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+ The derivative wrt directions 1, 2 & 3 is [ 0.00000E+00]:  0.00000E+00
+

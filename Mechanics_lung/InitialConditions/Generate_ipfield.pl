@@ -7,12 +7,11 @@
 use strict;
 my $efile = $ARGV[0];
 #my $ofile = 'LUL_ApexNoInnerVersLUL_Initialize16Fields.ipfiel';
-my $ofile = 'Left_Initialize16Field.ipfiel';
+my $ofile = 'Left_Initialize16Fields_coarsemesh.ipfiel';
 
 my $nfields = 16;
 
-#my $NumberofNodes = 70; #LLL
-my $NumberofNodes = 40; #LUL
+my $NumberofNodes = 47; #LUL
 
 ############### Read file 1  ######################
 my @map;

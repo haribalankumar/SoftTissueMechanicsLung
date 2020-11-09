@@ -1,4 +1,5 @@
 
+
 fem update field $x0 nodes add solution niy 4 depvar 1;
 fem update field $y0 nodes add solution niy 4 depvar 2;
 fem update field $z0 nodes add solution niy 4 depvar 3;

@@ -7,12 +7,11 @@
 
 use strict;
 my $efile = $ARGV[0]; #file1
-my $ofile = 'Left_InitialElem16Field.ipelfd';
+my $ofile = 'Left_InitialElem16Fields_coarsemesh.ipelfd';
 
 my $nfields = 16;
 
-#my $nelems = 42; #LLL
-my $nelems = 30; #LUL
+my $nelems = 32; #LUL
 
 ############### Read file 1  ######################
 # Element number [    7]:     9

@@ -1,6 +1,7 @@
 
-###############################################################################
-################## Grouping lung ##############################################
+############################################################
+if($meshtype eq 'fissuremesh') {
+############################################################
 
 fem group node 57..96 as all_nodes reg 1;
 fem group node 57..64,66..68,70..73,75,77..82,84,87..96 as outer_nodes;
@@ -18,7 +19,7 @@ fem group node 57,61,96 as Fixed_nodes;
 #fem group node 57,61 as outer_nodes_WithoutSides;
 fem group node 57,61 as TopAndBottom;
 
-fem group node 71..73,77..79,81..82,87..88,90..91,93..94 as Sides_Without_Corner exclude 88,82,73,78;
+fem group node 71..73,77..79,81..82,87..88,90..91,93..94 as Sides_Without_Corner exclude 88,82,72,78;
 
 fem group node 72,78,82,88 as LOblique_fissure;
 
@@ -43,15 +44,17 @@ fem group node 57,61,66..68,70,75,77..80,84,87..89,92..96 as side1 exclude base_
 fem group face 18,22,25,32,37,56,59,73,76,78,88,90..91,94..95 as side1_lung;
 fem group face 4,9,13,28,34,41,44,48,51,62,66,69,80,83,85 as side2_lung;
 fem group face 41,48,56,62,73,80,88,94 as frontaledge_faces;
+fem group face 39,41,93,94 as frontalcorner_faces;
+fem group face 80,83,85,88,90,91 as apex_faces;
 
 fem group element 9,10,7,8,3,6,2,5,1,4 as LLL;
 fem group element 19,22,18,21,17,20,13,15,11,29,12,30,14,16,27,24,28,23,26 as LUL;
 
 
-#fem group face all elem s3_1 external xi3 high as side1_lung;
-#fem group face all elem s3_0 external xi3 low as side2_lung;
-#fem group node in elem s3_0 xi3=0 as side2 exclude base_tip; #mediastinal
-#fem group node in elem s3_1 xi3=1 as side1 exclude base_tip; #lateral
+###fem group face all elem s3_1 external xi3 high as side1_lung;
+###fem group face all elem s3_0 external xi3 low as side2_lung;
+###fem group node in elem s3_0 xi3=0 as side2 exclude base_tip; #mediastinal
+###fem group node in elem s3_1 xi3=1 as side1 exclude base_tip; #lateral
 
  
 fem group node 92 as top;
@@ -65,12 +68,12 @@ fem group node 75,84,92 as edge_back;
 
 
 
-#fem group node in elem s2_0 xi2=0 as top;
-#fem group node in elem s2_1 xi2=1 as base exclude base_tip;
-#fem group node in elem s1_0 xi1=0 as edge_back exclude base_tip;
-#fem group node in elem s1_1 xi1=1 as edge_front exclude base_tip;
+##fem group node in elem s2_0 xi2=0 as top;
+##fem group node in elem s2_1 xi2=1 as base exclude base_tip;
+##fem group node in elem s1_0 xi1=0 as edge_back exclude base_tip;
+##fem group node in elem s1_1 xi1=1 as edge_front exclude base_tip;
 
-fem group node side1,side2,base as outer_nodes;
+##em group node side1,side2,base as outer_nodes;
 fem group node side1,side2,base,base_tip as all_outer_nodes;
 fem group face all external as contact_cube_face;
 fem group face all external as outer_faces ;
@@ -81,7 +84,7 @@ fem group face 3,7,11,17,20,23,39,93 as baseMiddleFace;
 fem group node 66,67,68 as BaseEdge_Side1;
 fem group node 58,59,60 as BaseEdge_Side2; 
 
-fem group node BaseEdge_Side1,BaseEdge_Side2,58,66 as BaseEdge_Sides;
+fem group node BaseEdge_Side1,BaseEdge_Side2 as BaseEdge_Sides;
 fem group face 3,7,11,17,20,23 as side3_lung;
 
 
@@ -98,7 +101,7 @@ fem group node 57..64,66..68 as xi2_1 exclude base_tip;
 
 fem group node in elem s3_0 xi3=0 as xi3_0 exclude base_tip;
 fem group node in elem s3_1 xi3=1 as xi3_1 exclude base_tip;
-#fem group node in elem s2_1 xi2=1 as xi2_1 exclude base_tip;
+###fem group node in elem s2_1 xi2=1 as xi2_1 exclude base_tip;
 
 fem group node 58,62,65..66,71,74,77,81,86..87,90,93,95 as xi1_1 exclude base_tip;
 fem group node 60,64,68..69,73,79,82..83,85,88,91,94,96 as xi1_0 exclude base_tip;
@@ -128,4 +131,114 @@ fem group node outer_nodes as project_x;
 
 fem group face all external as contact_cube_face;
 fem group face all external as outer_faces;
-##############################################
+##################################################################
+}
+###################################################################
+
+
+if($meshtype eq 'Nofissure_mesh') {
+
+fem group elem all as all_elements;
+fem group node in elem all_elements as all_nodes;
+fem group elem all external s3=0 as s3_0;
+fem group elem all external s3=1 as s3_1;
+fem group elem all external s2=0 as s2_0;
+fem group elem all external s2=1 as s2_1;
+fem group elem all external s1=0 as s1_0;
+fem group elem all external s1=1 as s1_1;
+
+fem group elem all external s3=0 as s3_0;
+fem group elem all external s3=1 as s3_1;
+fem group elem all external s2=1 as s2_1;
+
+fem group node 33 as base_tip;
+fem group node 37 as front_tip;
+
+fem group node in elem s3_0 xi3=0 as xi3_0 exclude base_tip;
+fem group node in elem s3_1 xi3=1 as xi3_1 exclude base_tip;
+fem group node in elem s2_1 xi2=1 as xi2_1 exclude base_tip;
+
+fem group node in elem s1_0 xi1=1 as xi1_1 exclude base_tip;
+fem group node in elem s1_1 xi1=0 as xi1_0 exclude base_tip;
+
+fem group node base_tip,front_tip as corners;
+
+if ($refinement eq 'coarse'){
+fem group node 67 as top_side_1;
+fem group node 242,243 as top_side_2;
+}
+if ($refinement eq 'coarsefine'){
+fem group node 138,67 as top_side_1;
+fem group node 242,243 as top_side_2;
+}
+if ($refinement eq 'fine'){
+fem group node 242,138,67,243 as top_side_1;
+fem group node 241,244 as top_side_2;
+}
+fem group node top_side_1,top_side_2 as tops;
+
+fem group node in elem s2_0 xi2=0 as top;
+fem group node in elem s2_1 xi2=1 as base exclude corners;
+
+if ($refinement eq 'coarse'){
+fem group node 125,40,38 as base_edge_1;
+fem group node 120,36,34 as base_edge_2;
+
+fem group face 4,11,19,28,36,43,89,94 as back_faces;
+}
+if ($refinement eq 'coarsefine'){
+fem group node 124,125,40,38 as base_edge_1;
+fem group node 118,120,36,34 as base_edge_2;
+}
+if ($refinement eq 'fine'){
+fem group node 123,124,125,126,40,38 as base_edge_1;
+fem group node 116,118,120,122,36,34 as base_edge_2;
+}
+
+fem group node base_edge_1,base_edge_2 as base_edges;
+fem group node base as base_mid exclude base_edges;
+
+fem group node in elem s1_0 xi1=0 as edge_back exclude tops,corners;
+fem group node in elem s1_1 xi1=1 as edge_front exclude tops,corners;
+fem group node edge_back,edge_front as side_edges;
+
+fem group face all elem s3_1 external xi3 high as side1_lung;
+fem group face all elem s3_0 external xi3 low as side2_lung;
+fem group face all elem s2_1 external xi2 high as side3_lung;
+
+if ($refinement eq 'coarse'){
+fem group face 4,8,11,14,50,53,56,58 as top_faces;
+}
+if ($refinement eq 'coarsefine'){
+fem group face 4,8,12,15,18,21,73,76,79,81 as top_faces;
+}
+if ($meshtype eq 'fine'){
+fem group face 4,8,12,16,19,22,25,28,168,172,175,178,181,183 as top_faces;
+}
+
+fem group node in elem s3_0 xi3=0 as side2 exclude side_edges,base,tops,corners; #mediastinal
+fem group node in elem s3_1 xi3=1 as side1 exclude side_edges,base,tops,corners; #lateral
+
+fem group node side1,side2 as sides;
+
+
+fem group node side_edges,tops,side1,side2,base,corners as outer_nodes;
+fem group node side_edges,tops,side1,side2,base,corners as all_outer_nodes;
+fem group face all external as contact_cube_face;
+fem group face all external as outer_faces;
+
+fem group face all elem s2_1 external xi2 high as side3_lung;
+
+
+fem group node all_nodes as inner_nodes exclude all_outer_nodes;
+
+
+fem group node outer_nodes as project_z;
+fem group node outer_nodes as project_y;
+fem group node outer_nodes as project_x;
+
+########################################################################
+}
+########################################################################
+
+

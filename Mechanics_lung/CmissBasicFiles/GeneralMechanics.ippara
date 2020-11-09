@@ -4,7 +4,7 @@
  Max# auxiliary parameters          (NAM)[1]:         1
  Max# basis functions               (NBM)[1]:         5
  Max# var. types for a  dep. var.   (NCM)[1]:         2
- Max# data points                   (NDM)[1]:     90000
+ Max# data points                   (NDM)[1]:    130000
  Max# elements                      (NEM)[1]:      1320
  Max# elements in a region       (NE_R_M)[1]:      1320
  Max# adjacent elements in Xi      (NEIM)[1]:         5
@@ -60,7 +60,7 @@
  Max# size of Minos arrays    (NZ_MINOSM)[1]:         1
  Max# basis function families      (NBFM)[1]:         8
  Max# nonlin. optim.n constraints  (NCOM)[1]:         1
- Max# data points in one element   (NDEM)[1]:      9000
+ Max# data points in one element   (NDEM)[1]:     13000
  Max# dipoles in a region      (NDIPOLEM)[1]:         1
  Max# time points for a dipole (NDIPTIMM)[1]:         1
  Max# elements along a line        (NELM)[1]:        20
@@ -101,7 +101,7 @@
  USE_CELL      (0 or 1)[1]: 0
  USE_DATA      (0 or 1)[1]: 1
  USE_DIPOLE    (0 or 1)[1]: 0
- USE_GAUSS_PT_MATERIALS  (0 or 1)[0]: 0
+ USE_GAUSS_PT_MATERIALS  (0 or 1)[0]: 1
  USE_GRAPHICS  (0 or 1)[1]: 0
  USE_GRID      (0 or 1)[1]: 0
  USE_LUNG      (0 or 1)[1]: 0

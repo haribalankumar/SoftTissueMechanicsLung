@@ -1,5 +1,5 @@
 
-set echo on;
+##set echo on;
 
 fem update field 1 substitute constant $posP;
 fem def init;w;'Intermediate/step';
@@ -23,7 +23,21 @@ CORE::close OPFILE;
 ###system "cat Intermediate/HeaderUniform.ipinit $opfile > Intermediate/temp.file";
 ###system "mv Intermediate/temp.file $opfile";
 
-$headerfile1 = "Intermediate/HeaderUniform.ipinit";
+if($meshtype eq 'fissuremesh') {
+if ($surfacetype eq 'smooth'){
+$headerfile1 = "Intermediate/HeaderUniform_Smooth.ipinit";
+} 
+if ($surfacetype eq 'sharp'){
+$headerfile1 = "Intermediate/HeaderUniform_Sharp.ipinit";
+}
+}
+
+
+if($meshtype eq 'Nofissure_mesh') {
+if ($refinement eq 'coarse'){
+$headerfile1 = "Intermediate/HeaderUniform_coarse.ipinit";
+}
+}
 
 CORE::open(IPFILE, "<$headerfile1") or die "\033[31mError11: Can't open input file $headerfile1 \033[0m \n";
 CORE::open(OPFILE, ">$opfile") or die "\033[31mError11: Can't open $opfile\033[0m \n";
@@ -50,13 +64,28 @@ system "rm $opfile";
 system "rm $ipfile";
 
 fem def solve;r;CmissBasicFiles/GMRES;
-fem def mapping;r;CmissBasicFiles/LungMapping; 
-fem evaluate pressure gauss;
 
+if($meshtype eq 'fissuremesh') {
+if ($surfacetype eq 'smooth'){
+fem def mapping;r;CmissBasicFiles/LungMappingSmoothEdges;
+} elsif ($surfacetype eq 'sharp'){
+fem def mapping;r;CmissBasicFiles/LungMappingSharpEdges;
+} else {
+fem quit;
+}
+}
+
+if($meshtype eq 'Nofissure_mesh') {
+if ($refinement eq 'coarse'){
+fem def mapping;r;CmissBasicFiles/LungMapping_coarse;
+}
+}
+
+fem evaluate pressure gauss;
 print "--------------------------------------------------------\n";
 print " Solve incr TO compute Reaction forces $sum_increment \n";
 print "--------------------------------------------------------\n";
-fem solve increment $sum_increment iterate $iterate error $error; #no extra G
+fem solve increment $sum_increment iterate $iterate error $error;
 
 
 
@@ -81,9 +110,46 @@ close OPFILE;
 ##system "cat Intermediate/Header${posture}${lung}.ipinit $opfile > Intermediate/temp.file";
 ##system "mv Intermediate/temp.file $opfile";
 
-$headerfile2 = "Intermediate/HeaderSupineLeft.ipinit";
 
-CORE::open(IPFILE, "<$headerfile2") or die "\033[31mError11: Can't open input file $headerfile1 \033[0m \n";
+if($meshtype eq 'fissuremesh') {
+if ($surfacetype eq 'smooth'){
+$headerfile2 = 'Intermediate/Header'.$posture.$lung.'_Smooth.ipinit';
+}
+if ($surfacetype eq 'sharp'){
+$headerfile2 = 'Intermediate/Header'.$posture.$lung.'_Sharp.ipinit';
+}
+}
+
+if($meshtype eq 'Nofissure_mesh') {
+if ($refinement eq 'coarse'){
+$headerfile2 = 'Intermediate/Header'.$posture.$lung.'_coarse.ipinit';
+print ".---------------------- step $j of Gravity \n";
+print ".------------------------------------------ \n";
+}
+}
+
+
+if($j == $Gnsteps) {
+if($meshtype eq 'fissuremesh') {
+if ($surfacetype eq 'smooth'){
+$headerfile2 = "Intermediate/HeaderUniform_Smooth.ipinit";
+} 
+if ($surfacetype eq 'sharp'){
+$headerfile2 = "Intermediate/HeaderUniform_coarse.ipinit";
+}
+}
+
+if($meshtype eq 'Nofissure_mesh') {
+if ($refinement eq 'coarse'){
+$headerfile2 = "Intermediate/HeaderUniform_coarse.ipinit";
+
+print ".----------------------last step of Gravity \n";
+print "...................changing BC.........\n";
+}
+}
+}
+
+CORE::open(IPFILE, "<$headerfile2") or die "\033[31mError11: Can't open input file $headerfile2 \033[0m \n";
 CORE::open(OPFILE, ">$opfile") or die "\033[31mError11: Can't open $opfile\033[0m \n";
        $line = <IPFILE>;
        while ($line){

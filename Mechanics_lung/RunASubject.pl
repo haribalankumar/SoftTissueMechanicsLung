@@ -8,14 +8,18 @@ my $subject = $ARGV[1];
 my $lung    = $ARGV[2];
 my $posture = $ARGV[3];
 my $protocol= $ARGV[4];
-my $options = $ARGV[5];
+my $idisptest = $ARGV[5];
+my $stiffness = $ARGV[6];
 my $v_t = 0;
 $v_t = $ARGV[6]; #for an optional tidal volume %
+
 
 my $comfile = 'CmissComFiles/SpecifyProblem.com';
 
 
+if($study =~/HA/){$study = 'Human_Aging';}
 if($study =~/HLA/){$study = 'Human_Lung_Atlas';}
+if($study =~/UCSD/){$study = 'UCSDLungs';}
 if($study =~/HPE/){$study = 'Human_PE_Study_HRC';}
 
 
@@ -66,12 +70,25 @@ foreach my $lung (@lungs){
 	print OPCOM " \$lung = \'$lung\';\n";
 	print OPCOM " \$refined = \'$refined\';\n";
 	print OPCOM " \$v_t  = \'$v_t\';\n";
+	print OPCOM " \$surfacetype  = 'sharp';\n";
+	print OPCOM " \$meshtype  = 'Nofissure_mesh';\n";
+	print OPCOM " \$refinement = 'coarse';\n";
+	print OPCOM " \$idisptest = \'$idisptest\';\n";
+	print OPCOM " \$stiffness = \'$stiffness\';\n";
 	close OPCOM;
 
 	print "Run cm for $subject, $lung, $posture, additional% volume= $v_t \n";
 
-        system "$cmiss_root CmissComFiles/RunExpansion_Uniform.com";
-#       system "$cmiss_root CmissComFiles/RunGravity.com";
+
+       system "$cmiss_root CmissComFiles/RunExpansion_Uniform.com";
+       system "$cmiss_root CmissComFiles/RunNonUniformZeroG.com";
+       system "$cmiss_root CmissComFiles/RunGravityNonUniform.com";
+
+
+#      system "$cmiss_root CmissComFiles/RunGravity.com";
+#      system "$cmiss_root CmissComFiles/RunNonUniform.com";
+
+
     } #postures
 } #lungs
 
